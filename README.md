@@ -1,5 +1,3 @@
-![Web Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/323970675_732298978409928_3654057655355654845_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEoYIrWN-wc2rV7QSd8ouQg4vkP1imAOcbi-Q_WKYA5xh3GLn9tUYZaBp4JUQhflyC0tLZDhWKAUNDzMwqawMFV&_nc_ohc=ObsnZ6It0ZMAX_WXhDg&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCxyzzVQWiB9afjflfzqa_vqQi7MvQIl1eeizFujVRJ_w&oe=64B2999D)
-
 ### Hi there 👋, I'm Gopal Basak
 #### Web Developer
 
