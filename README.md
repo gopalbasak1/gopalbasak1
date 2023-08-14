@@ -4,7 +4,7 @@
 
 I'm preparing myself to be a Front End Web Developer. I'm already attracted to this sector. I have served in Territory Sales Officer posts in big companies for a long time. And I know about the market. 
 
-Skills: HTML / CSS / Bootstrap
+Skills: HTML / CSS / Bootstrap / Tailwind
 
 - 🔭 I’m currently working on this page 
 - 🌱 I’m currently learning Javascript 
