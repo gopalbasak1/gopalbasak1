@@ -4,11 +4,11 @@
 
 I'm preparing myself to be a Front End Web Developer. I'm already attracted to this sector. I have served in Territory Sales Officer posts in big companies for a long time. And I know about the market. 
 
-Skills: HTML / CSS / Bootstrap / Tailwind/ React JS / Express JS / Node JS / Mongodb
+Skills: HTML/ CSS/ Bootstrap/ Tailwind/ React JS/ Express JS/ Node JS/ MongoDB
 
 - 🔭 I’m currently working on this page 
-- 🌱 I’m currently learning Mongodb 
-- 👯 I’m looking to collaborate on github 
+- 🌱 I’m currently learning MongoDB
+- 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about web development 
 
 
