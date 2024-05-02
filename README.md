@@ -7,7 +7,7 @@ I'm preparing myself to be a Front End Web Developer. I'm already attracted to t
 Skills: HTML / CSS / Bootstrap / Tailwind/ React JS / Express JS / Node JS / Mongodb
 
 - 🔭 I’m currently working on this page 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Mongodb 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 
