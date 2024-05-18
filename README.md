@@ -2,7 +2,7 @@
 #### Web Developer
 
 
-I'm preparing myself to be a Front End Web Developer. I'm already attracted to this sector. I have served in Territory Sales Officer posts in big companies for a long time. And I know about the market. 
+I'm preparing myself to be a Front End Web Developer. I'm already attracted to this sector. 
 
 Skills: HTML/ CSS/ Bootstrap/ Tailwind/ React JS/ Express JS/ Node JS/ MongoDB
 
