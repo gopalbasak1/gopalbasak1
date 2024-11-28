@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **React JS, Mern**
 
-- <a href="mailto:gopaldevbd@gmail.com">
+- <a href="mailto:gopalbasak2324@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" width="20"/>
-  gopaldevbd@gmail.com
+  gopalbasak2324@gmail.com
 </a>
 
 
