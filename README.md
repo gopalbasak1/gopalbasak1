@@ -10,7 +10,10 @@
 
 - 💬 Ask me about **React JS, Mern**
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gopaldevbd%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gopaldevbd@gmail.com)](mailto:gopaldevbd@gmail.com)
+- <a href="mailto:gopaldevbd@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" width="20"/>
+  gopaldevbd@gmail.com
+</a>
 
 
 
