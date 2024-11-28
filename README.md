@@ -10,7 +10,12 @@
 
 - 💬 Ask me about **React JS, Mern**
 
-- 📫 How to reach me **gopalbasak2324@gmail.com**
+- 📫 How to reach me ## Get in Touch
+<a href="mailto:gopaldevbd@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" width="20"/>
+  gopaldevbd@gmail.com
+</a>
+
 
 - 📄 Know about my experiences [https://drive.google.com/open?id=1Kl9FFAmzkzLIpeC_XQwWIvzcqMxVOSiE&usp=drive_copy](https://drive.google.com/open?id=1Kl9FFAmzkzLIpeC_XQwWIvzcqMxVOSiE&usp=drive_copy)
 
